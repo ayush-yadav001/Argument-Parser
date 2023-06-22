@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'swift-argument-parser'
-  s.version          = '0.1.1'
+  s.version          = '0.0.1'
   s.summary          = 'Type-safe and easy way for parsing command line arguments in your macOS command line tools.'
   s.homepage         = 'https://github.com/ayush-yadav001/Argument-Parser'
   s.license          = { :type => 'Apache License v2.0 with Runtime Library Exception', :file => 'LICENSE' }
