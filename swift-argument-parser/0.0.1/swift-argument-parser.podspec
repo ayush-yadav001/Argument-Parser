@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.cocoapods_version = '>= 1.4'
   s.swift_version = '5.1'
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
   s.source_files = 'Sources/ArgumentParser/**/*'
   s.frameworks = 'Foundation'
 
